@@ -1,0 +1,31 @@
+@import './abstracts/fonts';
+@import './abstracts/colors';
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+.App {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.common {
+  &-heading {
+    font-family: $fontHeading;
+    font-size: 6rem;
+    color: $black;
+    line-height: 1.2;
+  }
+  &-desc {
+    font-family: $fontBody;
+    letter-spacing: 0.1em;
+    text-transform: lowercase;
+    font-size: 1.05rem;
+    color: $black;
+  }
+}
+

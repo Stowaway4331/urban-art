@@ -1,0 +1,23 @@
+@import './abstracts/fonts';
+@import './abstracts/colors';
+
+.About {
+  width: 100%;
+  justify-content: center;
+
+  .about-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin:5.5rem 0;
+    p {
+      font-family: $fontBody;
+      font-size: 1.2rem;
+      text-align: center;
+      line-height: 1.5;
+      padding: 0 6em;
+      max-width: 55rem;
+    }
+  }
+}
