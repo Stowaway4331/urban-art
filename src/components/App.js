@@ -1,4 +1,6 @@
 import "../component-styles/App.scss";
+import "../assets/images/gap-1-bg.webp";
+import "../assets/images/gap-2-bg.webp";
 
 import Hero from "./Hero";
 import Store from "./Store";
