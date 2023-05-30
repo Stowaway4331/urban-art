@@ -102,13 +102,13 @@ const Contact = () => {
             </span>
           </div>
           <div className="contact-icons">
-            <a href="#" id="facebook">
+            <a href="https://www.facebook.com/wix/" id="facebook">
               <FaFacebookF />
             </a>
-            <a href="#" id="facebook">
+            <a href="https://www.github.com/stowaway4331" id="github">
               <FaGithubAlt />
             </a>
-            <a href="#" id="facebook">
+            <a href="https://www.instagram.com/jer_me_d/" id="instagram">
               <FaInstagram />
             </a>
           </div>
