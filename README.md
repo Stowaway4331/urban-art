@@ -1,4 +1,4 @@
-## This project was bootstrapped with <a href="https://react.dev/">React.js</a> and <a href="https://sass-lang.com/">SASS</a>
+## This project was bootstrapped with create-react-app
 
 This website is a concept for an Urban Art Store. Created using React and sass/scss.
 
